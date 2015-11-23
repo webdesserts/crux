@@ -12,8 +12,8 @@ module.exports = {
   init: function () {},
 
   get proto() { return Object.getPrototypeOf(this) },
-  set proto(object) {
-    if (Object.setPrototypeOf) Object.setPrototypeOf(object);
-    else this.__proto__ = object
+  set proto(obj) {
+    if (Object.setPrototypeOf) Object.setPrototypeOf(this, obj);
+    else this.__proto__ = obj
   }
 }
