@@ -1,0 +1,28 @@
+{
+  "name": "@webdesserts/crux",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "The small utility library for simplifying prototypical inheritance.",
+  "author": "Michael C. Mullins",
+  "homepage": "https://github.com/webdesserts/crux",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "keywords": [
+    "inheritance",
+    "prototypes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdesserts/crux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webdesserts/crux/issues"
+  }
+}
