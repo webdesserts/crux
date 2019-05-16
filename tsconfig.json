@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "esnext",
+    "lib": [ "es2015" ],
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "dist",
+    "rootDir": "lib",
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+  },
+}
