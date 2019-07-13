@@ -1,6 +1,11 @@
 
-Crux
-====
+Crux (Deprecated)
+=================
+
+> **Warning** This library is no longer maintained. This was a fun and useful
+> experiment, but I will not be using this library for future projects. Instead,
+> I'd recommend just using JavaScript classes. They are more recognizable a easier
+> to type in languages like TypeScript.
 
 The tiny utility library for simplifying prototypical inheritance.
 
